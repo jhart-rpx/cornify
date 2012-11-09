@@ -18,17 +18,17 @@ And bundle. You can now use these helpers in your views!
 
 Say, in your show.html.erb:
 
-  <%= cornify_link %>
+    <%= cornify_link %>
 
 Would product a button that allows you to click it to create unicorns on demand!
 
 Soooo many advanced coadskillz:
 
-  <%= cornify_link "This here be's a link to cornify", :class => "corniest", :id => "so_corny" %>
+    <%= cornify_link "This here be's a link to cornify", :class => "corniest", :id => "so_corny" %>
 
 Secret treats!
 
-  <%= cornify_link :rainbow_madness %>
+    <%= cornify_link :rainbow_madness %>
 
 
 All credit goes to cornify.com!
