@@ -10,7 +10,7 @@ Gem::Specification.new do |s|
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["James Hart"]
   s.date = "2012-11-09"
-  s.description = "TODO: longer description of your gem"
+  s.description = 'And James said, "Let there be unicorns, and all was good."'
   s.email = "jhart@rpxcorp.com"
   s.extra_rdoc_files = [
     "LICENSE.txt",
@@ -28,11 +28,11 @@ Gem::Specification.new do |s|
     "cornify.gemspec",
     "lib/cornify.rb"
   ]
-  s.homepage = "http://github.com/jhart-rpx/cornify"
+  s.homepage = "http://github.com/hjhart/cornify"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.24"
-  s.summary = "TODO: one-line summary of your gem"
+  s.summary = 'And James said, "Let there be unicorns, and all was good."'
 
   if s.respond_to? :specification_version then
     s.specification_version = 3
